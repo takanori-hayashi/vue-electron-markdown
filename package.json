@@ -8,7 +8,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "electron": "1.7.11",
+    "electron": "1.8.2-beta5",
     "lodash": "^4.17.4",
     "marked": "^0.3.6",
     "vue": "^2.5.3"
